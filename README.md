@@ -38,20 +38,20 @@ Read the [participation details](https://hacktoberfest.digitalocean.com/) to lea
 # How to contribute?
 
 
-2. Make div of your choice using any CSS framework but preferabbly which are popular. It can be any thing you think is out of box! 
+1. Make div of your choice using any CSS framework but preferabbly which are popular. It can be any thing you think is out of box! 
 
 PS: Do not make it extra large and try to make it responsive but atlease make sure it looks good in web-version.
 
-3. If you want to include CSS/JS file then please upload in `contribution` folder and to ensure that class do not match with one another please add your github username in first, For example:
-```
-#sampleusername_preloader {
-    position: fixed;
-    padding-top: 15%;
-  }
-```
-
-It is recommended that you do all the steps :)
-
+2. Please add your name, username, college and city in "contribution.md" if you want me to merge.
+Ex-
+`````
+{
+name:
+username:
+college:
+city:
+}
+`````
 
 
 ## Conclusion
